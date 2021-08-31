@@ -65,10 +65,10 @@ systemctl restart sshd
 *******************************************************************************************************************
 
 5.	Create user called ansible in all machines
-#useradd ansible
+# useradd ansible
 
 Set password for ansible user in all machines
-#passwd ansible
+# passwd ansible
 
 Enter the password as cnl12345
 
